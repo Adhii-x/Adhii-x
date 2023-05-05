@@ -4,7 +4,7 @@
 #### TOTAL REPO VIEWS📍
 ![Visitor Count](https://profile-counter.glitch.me/adhii-x/count.svg)
 
-<img src=https://i.ibb.co/5WL2Y8j/photo-2022-09-16-09-17-48.jpg>
+<img src=img.jpg>
 
 # Hi ,<a href="Hey"><img src="https://raw.githubusercontent.com/TOXIC-DEVIL/TOXIC-DEVIL/TOXIC-DEVIL-OFFICIAL/media/Hi.gif" width="48px"></a> I'm Adhii&nbsp;
 
