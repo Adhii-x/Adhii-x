@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React js**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Adhii-x?tab=repositories](hhttps://github.com/Adhii-x?tab=repositories)
+- 👨‍💻 All of my projects are available at [adhil-portfoilo.vercel.app/]
 
 - 📝 I regularly write articles on [adhil-portfoilo.vercel.app/](adhil-portfoilo.vercel.app/)
 
