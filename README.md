@@ -9,13 +9,13 @@
 
 - 🌱 I’m currently learning **React js**
 
-- 👨‍💻 All of my projects are available at [adhil-portfoilo.vercel.app/]
+- 👨‍💻 All of my projects are available at [adhil-portfoilo.vercel.app/](adhil-portfoilo.vercel.app/)
 
 - 📝 I regularly write articles on [adhil-portfoilo.vercel.app/](adhil-portfoilo.vercel.app/)
 
 - 💬 Ask me about **python , django and Rest api**
 
-- 📫 How to reach me **iphoneadhi40@gmail.com**
+- 📫 How to reach me **adhilubinurasheed@gmail.com**
 
 - 📄 Know about my experiences [adhil-portfoilo.vercel.app/](adhil-portfoilo.vercel.app/)
 
